@@ -1,0 +1,1 @@
+X=MsgBox("schreck è stato liberato",1+48,"ALLARME") 

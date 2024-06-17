@@ -1,0 +1,1 @@
+X=MsgBox("quello che hai appena fatto non è assolutamente pericoloso stai chill",0+64,"AVVISO") 
